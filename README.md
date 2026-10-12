@@ -34,7 +34,7 @@ k8s-cost-radar helps you answer critical questions about your Kubernetes cluster
 
 ```bash
 # Clone the repository
-git clone https://github.com/dipops/k8s-cost-radar.git
+git clone https://github.com/oginnidipo/k8s-cost-radar.git
 cd k8s-cost-radar
 
 # Install dependencies
